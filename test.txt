@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-=======
-
-testcommit02
->>>>>>> testbranch
+testcommit00
