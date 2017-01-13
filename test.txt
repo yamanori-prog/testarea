@@ -1,1 +1,5 @@
-testmessage00-01
+<<<<<<< HEAD
+=======
+
+testcommit02
+>>>>>>> testbranch
